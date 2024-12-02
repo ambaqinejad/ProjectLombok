@@ -1,4 +1,4 @@
 package ir.ambaqinejad.spring6restmvc.model;
 
-public class BeerStyle {
+public class ProductStyle {
 }
